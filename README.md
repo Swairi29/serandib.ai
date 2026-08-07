@@ -1,5 +1,3 @@
-<div align="center">
-
 # Serandib
 ### CSE Financial Intelligence · RAG Pipeline
 
