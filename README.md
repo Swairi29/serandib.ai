@@ -244,13 +244,6 @@ The following will be added as each phase completes:
 - `Dockerfile` + `docker-compose.yml` — one-command deployment
 - Loom walkthrough video
 
----
-
-## Why Serandib?
-
-*Serandib* is the ancient Arabic name for Sri Lanka — used by traders navigating to Asian financial centres for centuries. The name reflects the project's dual identity: rooted in Sri Lanka's financial ecosystem (the CSE corpus), built with the tools of modern financial AI (RAG, hybrid retrieval, LLM evaluation).
-
----
 
 <div align="center">
 <sub>Built as a portfolio project · CSE data sourced from cdn.cse.lk · Not financial advice</sub>
